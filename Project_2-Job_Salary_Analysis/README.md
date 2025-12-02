@@ -6,13 +6,13 @@ This project is part of my Excel learning journey. I used a real-world style dat
 ---
 
 ## 📸 Project Preview  
-*![alt text](..\Images\Project2\Top_skills.png)* 
+*![alt text](../Images/Project2/Top_skills.png)* 
 
-*![alt text](..\Images\Project2\Skills_vs_salary.png)* 
+*![alt text](../Images/Project2/Skills_vs_salary.png)* 
 
-*![alt text](..\Images\Project2\Median_salary_analysis.png)*
+*![alt text](../Images/Project2/Median_salary_analysis.png)*
 
-*![alt text](..\Images\Project2\Pay_of_top_skills.png)*
+*![alt text](../Images/Project2/Pay_of_top_skills.png)*
 
 
 ---
